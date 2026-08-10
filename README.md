@@ -84,7 +84,7 @@ Computer Science Engineering
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** Add your LinkedIn profile link here
+💼 **LinkedIn:** www.linkedin.com/in/tejas-kendale-956536415
 
 💻 **GitHub:** [@tejaskendale-ops](https://github.com/tejaskendale-ops)
 
