@@ -76,8 +76,7 @@ Computer Science Engineering
            DAX
             ↓
      Data Analytics
-            ↓
-      Data Science
+            
 ```
 
 ---
