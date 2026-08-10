@@ -46,7 +46,7 @@ An end-to-end Data Analytics project covering:
 🔹 Interactive filters
 🔹 Business insights & recommendations
 
-👉 **[View Project Repository](https://github.com/tejaskendale-ops/ecommerce-sales-analysis-sql)**
+👉 **[View Project Repository](https://github.com/tejaskendale-ops/ecommerce-sales-analysis)**
 
 ---
 
